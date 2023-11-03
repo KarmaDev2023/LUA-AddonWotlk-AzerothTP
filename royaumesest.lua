@@ -1,0 +1,137 @@
+-- Sunwell
+ETP_QUELDANAS = ".go xyz 12974 -6891 6.50 530";
+ETP_SUNWELL = ".go xyz 12594 -6776 14.60 530";
+ETP_TERMAGE = ".go xyz 12891 -7314 65.56 530";
+
+-- Bois Chants Eternels
+ETP_HAUTSOLEIL = ".go xyz 10365 -6352 32.62 530";
+ETP_EPERVIER = ".go xyz 9433 -6780 16.61 530";
+ETP_LUNARGENT = ".go xyz 9466 -7279 14.21 530"; -- Capitale
+ETP_BRISECLEMENTE = ".go xyz 8719 -6717 77.16 530";
+ETP_PEREGRIN = ".go xyz 9008 -7514 85.42 530";
+ETP_TRANQUILLIEN = ".go xyz 7642 -6814 78.94 530";
+ETP_ZULAMAN = ".go xyz 6848 -7721 117.05 530";
+ETP_PASSETHAL = ".go xyz 6390 -6851 100.52 530";
+
+-- Maleterre
+ETP_STRAT1 = ".go xyz 3277 -3380 142.28 0";
+ETP_STRAT2 = ".go xyz 3167 -4042 104.59 0";
+ETP_VALTERREUR = ".go xyz 3045 -2787 103.53 0";
+ETP_NOROIT = ".go xyz 957 -1435 63.12 0";
+ETP_SCHOLO = ".go xyz 1083 -2539 59.16 0";
+ETP_CHAPESPOIR = ".go xyz 2279 -5279 82.31 0";
+ETP_CROISECORIN = ".go xyz 2143 -4616 73.63 0";
+ETP_THONDRORIL = ".go xyz 1926 -2604 62.75 0";
+ETP_ACHERUS = ".go xyz 2354 -5668 426.03 609";
+
+-- Tirisfal
+ETP_MONASTERE = ".go xyz 2841 -692 139.33 0";
+ETP_BARRICADE = ".go xyz 1717 -669 51.12 0";
+ETP_BRILL = ".go xyz 2191 239 35.12 0";
+ETP_LEGLAS = ".go xyz 1748 1649 118.88 0"; 
+ETP_UNDERCITY = ".go xyz 1928 237 48.05 0"; -- Capitale
+
+-- Pins argentes
+ETP_SEPULCRE = ".go xyz 498 1595 125 0"; 
+ETP_OMBRECROC = ".go xyz -235 1510 74.90 0"; 
+ETP_GRISETETE = ".go xyz -759 1525 17.28 0"; 
+ETP_DALARAN = ".go xyz 193 314 51.79 0";
+
+-- Hinterlands
+ETP_NIDAGLE = ".go xyz 272 -2023 183.72 0"; 
+ETP_VENGEBROCHE = ".go xyz -565 -4545 11.97 0";
+
+-- Hautebrande
+ETP_TARREN = ".go xyz -53 -925 55.53 0";
+ETP_AUSTRIVAGE = ".go xyz -905 -535 6.88 0"; 
+ETP_THORADIN =".go xyz -828 -1577 54.17 0";
+ETP_PURIFICATION = ".go xyz -1240.848 434.384 3.052 0";
+
+-- Arathi
+ETP_ORNIERE = ".go xyz -1254 -2524 20.78 0";
+ETP_TREPASORGRIM = ".go xyz -920 -3493 70.46 0";
+ETP_FERMEVIDE = ".go xyz -1850 -4148 9.87 0";
+ETP_VIADUC = ".go xyz -2355 -2503 88.35 0";
+ETP_FALDIR = ".go xyz -2154 -1973 15.01 0";
+
+-- Les Paluns
+ETP_DUNMODR = ".go xyz -2656 -2459 80.02 0";
+ETP_GRIMBATOL = ".go xyz -4071 -3456 281.39 0";
+ETP_BARRFORMEPIERRE = ".go xyz -4710 -3137 310 0";
+ETP_MENETHIL = ".go xyz -3601 -870 12.94 0";
+ETP_VV1_VIDE = ".go xyz -3976 -1443 173.72 0";
+ETP_EXCAVATIONSTARREL = ".go xyz -3325.17 -1862.74 26.40 0";
+
+-- Loch Modan
+ETP_THELSAMAR = ".go xyz -5352 -2951 323.85 0";
+ETP_TUNELFORMEPIERRE = ".go xyz -6099 -2405 294.98 0";
+
+-- Dun Morog
+ETP_GOLBOLAR = ".go xyz -5700 -1596 383.21 0";
+ETP_FRIGERE = ".go xyz -6226 334 383.21 0";
+ETP_BRASSETOUT = ".go xyz -5387 302 394.06 0";
+ETP_GNOMEREGAN = ".go xyz -5188 518 387.83 0";
+ETP_KHARANOS = ".go xyz -5638 -468 397.69 0";
+ETP_IRONFORGE = ".go xyz -5079 -792 495.55 0";
+ETP_AEROPORTFF = ".go xyz -4551 -1640 503.33 0";
+ETP_DEBARCNEMAN = ".go xyz -6369 1254 8.75 0";
+
+-- Terres ingrates
+ETP_ULDAMAN = ".go xyz -6103 -3304 256.18 0";
+ETP_KARGATH = ".go xyz -6685 -2196 248.75 0";
+
+-- Vents brulants
+ETP_THORIUM = ".go xyz -6532 -1165 309.25 0";
+ETP_ROCHENOIRE = ".go xyz -7326 -1086 277.07 0";
+
+-- Steppes ardentes
+ETP_AUTELTEMPETE = ".go xyz -7627 -712 183.25 0";
+ETP_CORNICHEFLAM = ".go xyz -7516 -2181 162.94 0";
+ETP_VEILLEMORGAN = ".go xyz -8372 -2753 186.60 0";
+
+-- Lakeshire
+ETP_COMTELAC = ".go xyz -9275 -2210 64.06 0";
+ETP_TROISCHEMINS = ".go xyz -9620 -1907 59.76 0";
+ETP_GUETDEPIERRE = ".go xyz -9475 -3008 134.45 0";
+ETP_GALARDEL = ".go xyz -9263.22 -3405 106.58 0";
+
+-- Elwynn
+ETP_BUCHERONS = ".go xyz -9467 -1267 43 0";
+ETP_GOLDSHIRE = ".go xyz -9464 63 55.86 0";
+ETP_NORDSHIRE = ".go xyz -8943 -139 83.64 0";
+ETP_STORMWIND = ".go xyz -8830.23 624.95 93.92 0";
+ETP_PSTORMWIND = ".go xyz -8823.7 796.6 97.31 0";
+ETP_PORTSTORMWIND = ".go xyz -8420.16 1176.94 18.39 0";
+ETP_GARNRUISS = ".go xyz -9758 676 27.13 0";
+
+-- Marche de l'ouest
+ETP_COLLSENTI = ".go xyz -10545 1077 50.14 0";
+ETP_MORTEMINES = ".go xyz -11081 1563 48.67 0";
+ETP_VIEUPHARE = ".go xyz -11408.48 1982.29 10.74 0";
+ETP_COLDAGUE = ".go xyz -11266 1441 89.52 0";
+ETP_MORTEVEILLE = ".go xyz -11126.37 570.06 35.91 0";
+
+-- Darkshire
+ETP_CAMPSVEN = ".go xyz -10296.6 640.22 28.12 0";
+ETP_ABERCROMBIE = ".go xyz -10284.91 82.62 38.84 0";
+ETP_COCORBO = ".go xyz -10746 325 38.26 0";
+ETP_SOMBRECOMTE = ".go xyz -10569 -1182 28.09 0";
+ETP_KARAZHAN = ".go xyz -11131 -2005 48.15 0";
+
+-- Strangleronce
+ETP_YOJAMBA = ".go xyz -11821 1236 1.15 0";
+ETP_CAMPREBEL = ".go xyz -11324 -202 75.56 0";
+ETP_ZULGURUB = ".go xyz -11895 -866 34.47 0";
+ETP_NESINGWARY1 = ".go xyz -11615 -58 10.97 0";
+ETP_GROMGOL = ".go xyz -12388 171 2.85 0";
+ETP_GURUBASHI = ".go xyz -13225 233 33.38 0";
+ETP_BOUTYBAY = ".go xyz -14364 433 7.36 0";
+
+-- Terres Foudroyees
+ETP_DARKPORTAL = ".go xyz -11806 -3202 -28.94 0";
+ETP_REMPARTNEANT = ".go xyz -10997 -3410 61.79 0";
+ETP_PIERRECHE = ".go xyz -10439 -3258 20.18 0";
+ETP_TEMPLEENGLOUTI = ".go xyz -10451 -3825 18.07 0";
+ETP_HAVREBOUEUX = ".go xyz -10112 -2823 22.01 0";
+
+
