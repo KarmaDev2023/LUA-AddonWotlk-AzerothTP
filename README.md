@@ -1,5 +1,7 @@
+Addon WOW 3.3.5 - 12340 - FRANCAIS
 
 Azeroth-TP
+
 Addon GM - Téléportation
                                                                                                             
 Addon utilitaire pour GM qui permet de se téléporter via toutes villes, donjons, raids de tout le royaume.
