@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title-frFR: |cff9F3FFFAzeroth-TP
+## Author: |cff9F3FFFKarmaDev
+## Version: 2023
+## Notes-frFR: Addon utilitaire pour GM qui permet de se teleporter. C'est une exclusivite KarmaDev (|cff0070ddhttp:karmadev@orange.fr/|r).
+## DefaultState: Enabled
+## LoadOnDemand: 0
+Azeroth-TP.xml
